@@ -11,6 +11,7 @@
   "support": {
     "email": "982065980@qq.com"
   },
+  "license": "MIT",
   "require": {
     "php": ">=7.0",
     "guzzlehttp/guzzle": "^7.2"
